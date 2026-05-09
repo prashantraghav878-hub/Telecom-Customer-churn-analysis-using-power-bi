@@ -24,7 +24,7 @@ Customer churn is one of the biggest challenges for subscription-based businesse
 
 # Dashboard Preview
 
-![Dashboard Preview](churn dashboard.PNG)
+![](https://github.com/prashantraghav878-hub/Telecom-Customer-churn-analysis-using-power-bi/blob/main/churn%20dashboard.PNG)
 
 # Key Insights
 
