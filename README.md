@@ -36,21 +36,21 @@ Customer churn is one of the biggest challenges for subscription-based businesse
 
 - Churned Customers: 1869
 
-*Contract Type Analysis*
+***Contract Type Analysis***
 
 Customers with Month-to-Month contracts show the highest churn rate compared to yearly contracts.
 
-*Risk Segmentation*
+***Risk Segmentation***
 
 Normal Risk Customers: 4541
 
 High Risk Customers: 633
 
-*Tenure Insights*
+***Tenure Insights***
 
 Customers in the 0–6 months tenure range are more likely to churn.
 
-*Service Impact*
+***Service Impact***
 
 Customers without services like:
 
@@ -126,7 +126,7 @@ This analysis helps businesses:
 
 - Explore the dashboard interactively
 
-*Future Improvements*
+***Future Improvements***
 
 Add predictive churn modeling using Machine Learning
 
@@ -137,6 +137,7 @@ Integrate real-time customer data
 Add customer segmentation analysis
 
 ***Author***
+
 **PRASHANT RAGHAV**
 
 
